@@ -1,4 +1,4 @@
-<h1><a href="https://juan-mejia-cv-resume.vercel.app"><img align="center" height="45" src="https://juan-mejia-cv-resume.vercel.app/favicon.ico"></a> I'm John Kleinad</h1>
+<h1><a href="https://juan-mejia-cv-resume.vercel.app"><img align="center" height="45" src="https://juan-mejia-cv-resume.vercel.app/favicon.svg"></a> I'm John Kleinad</h1>
 
 - 🌐 As a developer, I specialize in crafting seamless web and mobile experiences, leveraging modern frameworks and cutting-edge tools to build reliable, scalable applications.  
 - 🧠 Beyond development, I lead the AWS Ajolotes en la Nube community, a vibrant network of tech enthusiasts. My role involves organizing events, sharing best practices, and helping members deepen their understanding of cloud technologies.  
